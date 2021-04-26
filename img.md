@@ -2,5 +2,5 @@
 ![fundo](https://user-images.githubusercontent.com/83155787/116144299-8fb00880-a6b2-11eb-88c3-bfcf3c8a1cde.jpg)
 ![googleplay-button](https://user-images.githubusercontent.com/83155787/116144307-9179cc00-a6b2-11eb-959d-bea7982cff86.png)
 ![instagram-logo](https://user-images.githubusercontent.com/83155787/116144312-92aaf900-a6b2-11eb-8a67-3e397adc9632.png)
-![Uploading perfil2.jpg…]()
+![Uploading perfil2.jpg…])
 
